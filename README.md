@@ -53,12 +53,13 @@ Beyond core backend architecture, I possess cross-platform mobile development sk
 *(Dec 2025 – Feb 2026)*[cite: 1]
 - Engineered production features and refactored core backend legacy code for a commercial Padel sports platform[cite: 1].
 - Improved system reliability by increasing unit and integration test coverage with **Pytest**[cite: 1].
-- Optimized database queries and API response times for production workloads[cite: 1].
+- 
 
 ### **Flutter / Frontend Developer** | *Molofaktura Startup* 
 *(Jul 2024 – Sep 2024)*[cite: 1]
 - Co-developed the interactive cross-platform UI for "School42," a gamified educational platform[cite: 1].
 - Successfully secured funding after winning the prestigious **Molofaktura 2024 startup grant**[cite: 1].
+- Refactored Pydantic Models and changed appropriate business logic
 
 ---
 
